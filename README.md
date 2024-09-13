@@ -44,18 +44,16 @@ Sunday                   656 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Jupyter                  16 mins             ████████████████████████░   95.62 % 
-Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PyCharm                  17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-langchain-kr             17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      17 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -75,5 +73,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2024 18:44:28 UTC
+ Last Updated on 13/09/2024 18:43:26 UTC
 <!--END_SECTION:waka-->
