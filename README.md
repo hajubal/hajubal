@@ -9,8 +9,6 @@
 
 > 📦 213.5 kB Used in GitHub's Storage 
  > 
-> 🏆 428 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 33 Public Repositories 
@@ -73,5 +71,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2024 18:43:26 UTC
+ Last Updated on 14/09/2024 18:41:36 UTC
 <!--END_SECTION:waka-->
