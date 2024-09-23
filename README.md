@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-133%20hrs%2038%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
@@ -57,11 +57,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     10 repos            ██████████████░░░░░░░░░░░   55.56 % 
-Jupyter Notebook         5 repos             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+Java                     10 repos            █████████████░░░░░░░░░░░░   52.63 % 
+Jupyter Notebook         5 repos             ███████░░░░░░░░░░░░░░░░░░   26.32 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Go                       1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 
 
@@ -71,5 +71,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 22/09/2024 18:41:45 UTC
+ Last Updated on 23/09/2024 18:44:58 UTC
 <!--END_SECTION:waka-->
