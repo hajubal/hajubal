@@ -9,8 +9,6 @@
 
 > 📦 219.0 kB Used in GitHub's Storage 
  > 
-> 🏆 469 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -44,16 +42,18 @@ Sunday                   658 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+SQL                      58 mins             ██████████████████████░░░   86.39 % 
+YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 7 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sgt                      1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +73,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 07/11/2024 18:44:29 UTC
+ Last Updated on 08/11/2024 18:44:10 UTC
 <!--END_SECTION:waka-->
