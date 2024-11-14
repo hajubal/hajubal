@@ -9,8 +9,6 @@
 
 > 📦 219.0 kB Used in GitHub's Storage 
  > 
-> 🏆 469 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 36 Public Repositories 
@@ -75,5 +73,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 13/11/2024 18:44:43 UTC
+ Last Updated on 14/11/2024 18:46:40 UTC
 <!--END_SECTION:waka-->
