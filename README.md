@@ -1,15 +1,13 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hajubal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%2037%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 219.1 kB Used in GitHub's Storage 
- > 
-> 🏆 491 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -44,23 +42,17 @@ Sunday                   658 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Java                     5 hrs 11 mins       ███████████████████████░░   93.60 % 
-YAML                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-Groovy                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Gradle                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Java                     1 hr 14 mins        ████████████████████████░   97.44 % 
+YAML                     1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
 
 🔥 Editors: 
-IntelliJ IDEA            5 hrs 32 mins       █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 16 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-gateway                  5 hrs 27 mins       █████████████████████████   98.33 % 
-ini-hub-ss-gateway       4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-pickupcoins              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+gateway                  1 hr 16 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 32 mins       █████████████████████████   100.00 % 
+Mac                      1 hr 16 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -80,5 +72,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 03/12/2024 18:47:42 UTC
+ Last Updated on 04/12/2024 18:49:32 UTC
 <!--END_SECTION:waka-->
