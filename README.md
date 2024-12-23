@@ -42,18 +42,16 @@ Sunday                   664 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-HTML                     2 mins              ██████████████████░░░░░░░   71.77 % 
-Gradle                   0 secs              ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Java                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-sgt                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      4 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +71,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 22/12/2024 18:41:43 UTC
+ Last Updated on 23/12/2024 18:44:05 UTC
 <!--END_SECTION:waka-->
