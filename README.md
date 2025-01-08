@@ -1,7 +1,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hajubal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -42,16 +42,19 @@ Sunday                   673 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     7 mins              ██████████████████████░░░   87.63 % 
+Markdown                 0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
+Text                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            8 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+filedown                 8 mins              ████████████████████████░   97.07 % 
+Unknown Project          0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.93 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      8 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +74,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 07/01/2025 18:45:13 UTC
+ Last Updated on 08/01/2025 18:45:48 UTC
 <!--END_SECTION:waka-->
