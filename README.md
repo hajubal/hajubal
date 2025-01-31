@@ -9,7 +9,7 @@
 
 > 📦 222.5 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -44,16 +44,16 @@ Sunday                   675 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-Python                   32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-salmon-server            32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +73,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 30/01/2025 18:44:13 UTC
+ Last Updated on 31/01/2025 18:43:23 UTC
 <!--END_SECTION:waka-->
