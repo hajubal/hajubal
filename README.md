@@ -9,6 +9,8 @@
 
 > 📦 222.5 kB Used in GitHub's Storage 
  > 
+> 🏆 11 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 40 Public Repositories 
@@ -42,16 +44,21 @@ Sunday                   675 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     23 mins             ████████████████████████░   96.05 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Gradle                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            23 mins             ████████████████████████░   96.13 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+gateway-proxy            23 mins             ████████████████████████░   96.13 % 
+salmon-server            0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      24 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -71,5 +78,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 02/02/2025 18:43:13 UTC
+ Last Updated on 03/02/2025 18:43:19 UTC
 <!--END_SECTION:waka-->
