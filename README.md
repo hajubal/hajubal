@@ -1,13 +1,15 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hajubal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-341%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-346%20hrs%2033%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 223.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 312 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -81,5 +83,5 @@ JavaScript               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2025 18:45:06 UTC
+ Last Updated on 30/03/2025 18:45:22 UTC
 <!--END_SECTION:waka-->
