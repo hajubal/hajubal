@@ -44,16 +44,19 @@ Sunday                   894 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Seoul
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     8 mins              ████████████░░░░░░░░░░░░░   47.23 % 
+YAML                     7 mins              ██████████░░░░░░░░░░░░░░░   41.19 % 
+Markdown                 2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Cursor                   10 mins             ███████████████░░░░░░░░░░   58.81 % 
+VS Code                  7 mins              ██████████░░░░░░░░░░░░░░░   41.19 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+sgt                      18 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  18 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Java** 
@@ -73,5 +76,5 @@ Dockerfile               1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 25/10/2025 18:48:43 UTC
+ Last Updated on 26/10/2025 18:49:08 UTC
 <!--END_SECTION:waka-->
