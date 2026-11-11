@@ -1,17 +1,13 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hajubal)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-805%20hrs%2014%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2033%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 3,761 Contributions in the Year 2026
+> 🏆 4,223 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -22,21 +18,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                162526 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-🌆 Daytime                640554 commits      ████████████████░░░░░░░░░   65.81 % 
-🌃 Evening                162972 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
-🌙 Night                  7271 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+🌞 Morning                201872 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+🌆 Daytime                759565 commits      ████████████████░░░░░░░░░   65.67 % 
+🌃 Evening                187084 commits      ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
+🌙 Night                  8138 commits        ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   143176 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Tuesday                  219430 commits      ██████░░░░░░░░░░░░░░░░░░░   22.54 % 
-Wednesday                187396 commits      █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Thursday                 173567 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.83 % 
-Friday                   167529 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Saturday                 47301 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
-Sunday                   34924 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Monday                   169779 commits      ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Tuesday                  257301 commits      ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
+Wednesday                222179 commits      █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Thursday                 210118 commits      █████░░░░░░░░░░░░░░░░░░░░   18.17 % 
+Friday                   199572 commits      ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
+Saturday                 54458 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Sunday                   43252 commits       █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
 ```
 
 
@@ -67,11 +63,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
-Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
-Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+Python                   8 repos             █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Shell                    4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+TypeScript               3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Go                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Vue                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 ```
 
 
@@ -81,5 +77,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/hajubal/hajubal/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2026 23:57:40 UTC
+ Last Updated on 11/11/2026 05:58:58 UTC
 <!--END_SECTION:waka-->
